@@ -19,6 +19,7 @@ class Bod:
              
     def get_x(self):
         print(self.x)
+        
 class Usecka:
 
     def __init__(self, A: Bod, B: Bod):
