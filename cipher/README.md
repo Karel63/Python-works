@@ -1,7 +1,7 @@
 # **Cipher**
 
 ## Info
-- Program využívá Vigenèrovu šifru
+- program využívá Vigenèrovu šifru
 - index.py je hlavní program, obsahuje šifrování textu a dešifrování
 - text.txt je vstupní text
 - ciphered.txt a deciphered.txt jsou soubory, které vzniknou po spuštění funkcí cipher nebo decipher v index.py
