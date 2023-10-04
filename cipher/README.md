@@ -8,4 +8,4 @@
 - do ciphered.txt se ukládá zašifrovaný text, a do deciphered se ukládá dešifrovaný text
 
 ## Nedostatky
-- momentálně neumí převést speciální české znaky, a pouze ignoruje mezerníky
+- momentálně neumí převést speciální české znaky, a ignoruje pouze mezerníky
